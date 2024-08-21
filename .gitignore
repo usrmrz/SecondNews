@@ -1,12 +1,12 @@
 *.iml
 .gradle
+.kotlin
 /local.properties
-/gradle.properties
 .idea
 .DS_Store
 app/.gitignore
 newsapi/.gitignore
-app/build
+build
 /captures
 .externalNativeBuild
 .cxx
